@@ -12,5 +12,8 @@ while True:
   forw += 1
   t.forward(forw)
   t.color('greenyellow')
-  t.
-  t.
+  t.right(350)
+  t.radians()
+  t.color('orange')
+  t.right(30)
+turtle.done()
