@@ -44,4 +44,5 @@ Tp-6
 
 Tp-7
 
+![2024-03-14 (2)](https://github.com/gustavocarvalho-ra/Turtle-Python/assets/137126878/f432d644-4942-4d7a-908c-a794916ee715)
 
