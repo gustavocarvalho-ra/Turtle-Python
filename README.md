@@ -33,7 +33,6 @@ Tp-5
 ![2024-03-16 (1)](https://github.com/gustavocarvalho-ra/Turtle-Python/assets/137126878/93b0b65c-0a3c-4e50-8bc7-61b6c8f60d9c)
 
 
-
 -----=================--------------==================-----
 
 Tp-6
@@ -55,3 +54,8 @@ Tp-8
 ![2024-03-16](https://github.com/gustavocarvalho-ra/Turtle-Python/assets/137126878/f2fa35d1-b803-444e-91a3-eb37a54969b4)
 
 
+-----=================--------------==================-----
+
+Tp-9
+
+![2024-03-16 (3)](https://github.com/gustavocarvalho-ra/Turtle-Python/assets/137126878/1aa59836-ac8a-409e-baa3-f7e5aafc77ff)
