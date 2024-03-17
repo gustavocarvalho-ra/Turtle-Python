@@ -4,8 +4,8 @@ bgcolor('black')
 speed(0)
 h = 0
 
-for i in range(200):
-  c = colorsys.hls_to_rgb(h, 1, 1)
+for i in range(300):
+  c = colorsys.hsv_to_rgb(h, 1, 1)
   pencolor(c)
   h += 0.05
   circle(5 - i, 100)
