@@ -30,7 +30,8 @@ Tp-4
 
 Tp-5
 
-![2024-03-13 (7)](https://github.com/gustavocarvalho-ra/Turtle-Python/assets/137126878/eaae2654-8ba2-459e-bb3d-2a47fe26405b)
+![2024-03-16 (1)](https://github.com/gustavocarvalho-ra/Turtle-Python/assets/137126878/93b0b65c-0a3c-4e50-8bc7-61b6c8f60d9c)
+
 
 
 -----=================--------------==================-----
