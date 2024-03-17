@@ -46,3 +46,11 @@ Tp-7
 
 ![2024-03-14 (2)](https://github.com/gustavocarvalho-ra/Turtle-Python/assets/137126878/f432d644-4942-4d7a-908c-a794916ee715)
 
+
+-----=================--------------==================-----
+
+Tp-8
+
+![2024-03-16](https://github.com/gustavocarvalho-ra/Turtle-Python/assets/137126878/f2fa35d1-b803-444e-91a3-eb37a54969b4)
+
+
