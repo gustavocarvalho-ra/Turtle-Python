@@ -2,7 +2,7 @@ import turtle
 t = turtle.Turtle()
 s = turtle.Screen()
 s.bgcolor('black')
-t.pencolor('red')
+t.pencolor('white')
 a = 0
 b = 0
 t.speed(0)
@@ -18,3 +18,4 @@ while True:
   if b ==210:
     break
   t.hideturtle()
+turtle.done()
