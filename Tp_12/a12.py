@@ -12,3 +12,11 @@ for i in range(255*2):
     g+=3
   elif i <255*2//3:
     r-=3
+  elif i <255:
+    b+=3
+  elif i <255*4//3:
+    g-=3
+  elif i <255*5//3:
+    r+=3
+  else:
+    
