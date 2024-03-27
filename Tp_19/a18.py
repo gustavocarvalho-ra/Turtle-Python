@@ -21,3 +21,7 @@ for i in range(190):
   end_fill()
   for j in range(10):
     forward(j)
+    right(83)
+    backward(i)
+hideturtle()
+done()
