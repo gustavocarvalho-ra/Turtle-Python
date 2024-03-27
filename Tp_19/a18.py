@@ -12,3 +12,12 @@ for i in range(190):
   h += 0.996
   begin_fill()
   up()
+  forward(i)
+  down()
+  right(9)
+  forward(i)
+  right(100)
+  right(10)
+  end_fill()
+  for j in range(10):
+    forward(j)
