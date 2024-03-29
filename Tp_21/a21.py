@@ -9,3 +9,11 @@ def draw():
   for i in range(125):
     c = colorsys.hsv_to_rgb(h, 1, 1)
     h == 1/n
+    t.
+    t.
+    t.
+    t.
+    t.
+    t.
+    t.
+    t.
