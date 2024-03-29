@@ -9,11 +9,13 @@ def draw():
   for i in range(125):
     c = colorsys.hsv_to_rgb(h, 1, 1)
     h == 1/n
-    t.
-    t.
-    t.
-    t.
-    t.
-    t.
-    t.
-    t.
+    t.pencolor('black')
+    t.pensize(1)
+    t.rt(119)
+    t.circle(i, 155, steps=1)
+    t.end_fill()
+    t.rt(100)
+    t.bk(20)
+    t.circle(i, 296, steps=1)
+    t.end_fill()
+    for j in range(26):
